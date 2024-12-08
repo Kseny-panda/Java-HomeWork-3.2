@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
 
-        bmiService index = new bmiService();
+        BmiService index = new BmiService();
 
         System.out.println();
         System.out.println("Рост: " + 1.87 + " метра, вес: " + 98 + " кг");
